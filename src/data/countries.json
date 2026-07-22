@@ -1,0 +1,1272 @@
+[
+  {
+    "id": "AD",
+    "name": "AD",
+    "flag": "/ad.png"
+  },
+  {
+    "id": "AE",
+    "name": "AE",
+    "flag": "/ae.png"
+  },
+  {
+    "id": "AF",
+    "name": "AF",
+    "flag": "/af.png"
+  },
+  {
+    "id": "AG",
+    "name": "AG",
+    "flag": "/ag.png"
+  },
+  {
+    "id": "AI",
+    "name": "AI",
+    "flag": "/ai.png"
+  },
+  {
+    "id": "AL",
+    "name": "AL",
+    "flag": "/al.png"
+  },
+  {
+    "id": "AM",
+    "name": "AM",
+    "flag": "/am.png"
+  },
+  {
+    "id": "AO",
+    "name": "AO",
+    "flag": "/ao.png"
+  },
+  {
+    "id": "AQ",
+    "name": "AQ",
+    "flag": "/aq.png"
+  },
+  {
+    "id": "AR",
+    "name": "AR",
+    "flag": "/ar.png"
+  },
+  {
+    "id": "AS",
+    "name": "AS",
+    "flag": "/as.png"
+  },
+  {
+    "id": "AT",
+    "name": "AT",
+    "flag": "/at.png"
+  },
+  {
+    "id": "AU",
+    "name": "AU",
+    "flag": "/au.png"
+  },
+  {
+    "id": "AW",
+    "name": "AW",
+    "flag": "/aw.png"
+  },
+  {
+    "id": "AX",
+    "name": "AX",
+    "flag": "/ax.png"
+  },
+  {
+    "id": "AZ",
+    "name": "AZ",
+    "flag": "/az.png"
+  },
+  {
+    "id": "BA",
+    "name": "BA",
+    "flag": "/ba.png"
+  },
+  {
+    "id": "BB",
+    "name": "BB",
+    "flag": "/bb.png"
+  },
+  {
+    "id": "BD",
+    "name": "BD",
+    "flag": "/bd.png"
+  },
+  {
+    "id": "BE",
+    "name": "BE",
+    "flag": "/be.png"
+  },
+  {
+    "id": "BF",
+    "name": "BF",
+    "flag": "/bf.png"
+  },
+  {
+    "id": "BG",
+    "name": "BG",
+    "flag": "/bg.png"
+  },
+  {
+    "id": "BH",
+    "name": "BH",
+    "flag": "/bh.png"
+  },
+  {
+    "id": "BI",
+    "name": "BI",
+    "flag": "/bi.png"
+  },
+  {
+    "id": "BJ",
+    "name": "BJ",
+    "flag": "/bj.png"
+  },
+  {
+    "id": "BL",
+    "name": "BL",
+    "flag": "/bl.png"
+  },
+  {
+    "id": "BM",
+    "name": "BM",
+    "flag": "/bm.png"
+  },
+  {
+    "id": "BN",
+    "name": "BN",
+    "flag": "/bn.png"
+  },
+  {
+    "id": "BO",
+    "name": "BO",
+    "flag": "/bo.png"
+  },
+  {
+    "id": "BQ",
+    "name": "BQ",
+    "flag": "/bq.png"
+  },
+  {
+    "id": "BR",
+    "name": "BR",
+    "flag": "/br.png"
+  },
+  {
+    "id": "BS",
+    "name": "BS",
+    "flag": "/bs.png"
+  },
+  {
+    "id": "BT",
+    "name": "BT",
+    "flag": "/bt.png"
+  },
+  {
+    "id": "BV",
+    "name": "BV",
+    "flag": "/bv.png"
+  },
+  {
+    "id": "BW",
+    "name": "BW",
+    "flag": "/bw.png"
+  },
+  {
+    "id": "BY",
+    "name": "BY",
+    "flag": "/by.png"
+  },
+  {
+    "id": "BZ",
+    "name": "BZ",
+    "flag": "/bz.png"
+  },
+  {
+    "id": "CA",
+    "name": "CA",
+    "flag": "/ca.png"
+  },
+  {
+    "id": "CC",
+    "name": "CC",
+    "flag": "/cc.png"
+  },
+  {
+    "id": "CD",
+    "name": "CD",
+    "flag": "/cd.png"
+  },
+  {
+    "id": "CF",
+    "name": "CF",
+    "flag": "/cf.png"
+  },
+  {
+    "id": "CG",
+    "name": "CG",
+    "flag": "/cg.png"
+  },
+  {
+    "id": "CH",
+    "name": "CH",
+    "flag": "/ch.png"
+  },
+  {
+    "id": "CI",
+    "name": "CI",
+    "flag": "/ci.png"
+  },
+  {
+    "id": "CK",
+    "name": "CK",
+    "flag": "/ck.png"
+  },
+  {
+    "id": "CL",
+    "name": "CL",
+    "flag": "/cl.png"
+  },
+  {
+    "id": "CM",
+    "name": "CM",
+    "flag": "/cm.png"
+  },
+  {
+    "id": "CN",
+    "name": "CN",
+    "flag": "/cn.png"
+  },
+  {
+    "id": "CO",
+    "name": "CO",
+    "flag": "/co.png"
+  },
+  {
+    "id": "CR",
+    "name": "CR",
+    "flag": "/cr.png"
+  },
+  {
+    "id": "CU",
+    "name": "CU",
+    "flag": "/cu.png"
+  },
+  {
+    "id": "CV",
+    "name": "CV",
+    "flag": "/cv.png"
+  },
+  {
+    "id": "CW",
+    "name": "CW",
+    "flag": "/cw.png"
+  },
+  {
+    "id": "CX",
+    "name": "CX",
+    "flag": "/cx.png"
+  },
+  {
+    "id": "CY",
+    "name": "CY",
+    "flag": "/cy.png"
+  },
+  {
+    "id": "CZ",
+    "name": "CZ",
+    "flag": "/cz.png"
+  },
+  {
+    "id": "DE",
+    "name": "DE",
+    "flag": "/de.png"
+  },
+  {
+    "id": "DJ",
+    "name": "DJ",
+    "flag": "/dj.png"
+  },
+  {
+    "id": "DK",
+    "name": "DK",
+    "flag": "/dk.png"
+  },
+  {
+    "id": "DM",
+    "name": "DM",
+    "flag": "/dm.png"
+  },
+  {
+    "id": "DO",
+    "name": "DO",
+    "flag": "/do.png"
+  },
+  {
+    "id": "DZ",
+    "name": "DZ",
+    "flag": "/dz.png"
+  },
+  {
+    "id": "EC",
+    "name": "EC",
+    "flag": "/ec.png"
+  },
+  {
+    "id": "EE",
+    "name": "EE",
+    "flag": "/ee.png"
+  },
+  {
+    "id": "EG",
+    "name": "EG",
+    "flag": "/eg.png"
+  },
+  {
+    "id": "EH",
+    "name": "EH",
+    "flag": "/eh.png"
+  },
+  {
+    "id": "ER",
+    "name": "ER",
+    "flag": "/er.png"
+  },
+  {
+    "id": "ES",
+    "name": "ES",
+    "flag": "/es.png"
+  },
+  {
+    "id": "ET",
+    "name": "ET",
+    "flag": "/et.png"
+  },
+  {
+    "id": "FI",
+    "name": "FI",
+    "flag": "/fi.png"
+  },
+  {
+    "id": "FJ",
+    "name": "FJ",
+    "flag": "/fj.png"
+  },
+  {
+    "id": "FK",
+    "name": "FK",
+    "flag": "/fk.png"
+  },
+  {
+    "id": "FM",
+    "name": "FM",
+    "flag": "/fm.png"
+  },
+  {
+    "id": "FO",
+    "name": "FO",
+    "flag": "/fo.png"
+  },
+  {
+    "id": "FR",
+    "name": "FR",
+    "flag": "/fr.png"
+  },
+  {
+    "id": "GA",
+    "name": "GA",
+    "flag": "/ga.png"
+  },
+  {
+    "id": "GB-ENG",
+    "name": "GB-ENG",
+    "flag": "/gb-eng.png"
+  },
+  {
+    "id": "GB-NIR",
+    "name": "GB-NIR",
+    "flag": "/gb-nir.png"
+  },
+  {
+    "id": "GB-SCT",
+    "name": "GB-SCT",
+    "flag": "/gb-sct.png"
+  },
+  {
+    "id": "GB-WLS",
+    "name": "GB-WLS",
+    "flag": "/gb-wls.png"
+  },
+  {
+    "id": "GB",
+    "name": "GB",
+    "flag": "/gb.png"
+  },
+  {
+    "id": "GD",
+    "name": "GD",
+    "flag": "/gd.png"
+  },
+  {
+    "id": "GE",
+    "name": "GE",
+    "flag": "/ge.png"
+  },
+  {
+    "id": "GF",
+    "name": "GF",
+    "flag": "/gf.png"
+  },
+  {
+    "id": "GG",
+    "name": "GG",
+    "flag": "/gg.png"
+  },
+  {
+    "id": "GH",
+    "name": "GH",
+    "flag": "/gh.png"
+  },
+  {
+    "id": "GI",
+    "name": "GI",
+    "flag": "/gi.png"
+  },
+  {
+    "id": "GL",
+    "name": "GL",
+    "flag": "/gl.png"
+  },
+  {
+    "id": "GM",
+    "name": "GM",
+    "flag": "/gm.png"
+  },
+  {
+    "id": "GN",
+    "name": "GN",
+    "flag": "/gn.png"
+  },
+  {
+    "id": "GP",
+    "name": "GP",
+    "flag": "/gp.png"
+  },
+  {
+    "id": "GQ",
+    "name": "GQ",
+    "flag": "/gq.png"
+  },
+  {
+    "id": "GR",
+    "name": "GR",
+    "flag": "/gr.png"
+  },
+  {
+    "id": "GS",
+    "name": "GS",
+    "flag": "/gs.png"
+  },
+  {
+    "id": "GT",
+    "name": "GT",
+    "flag": "/gt.png"
+  },
+  {
+    "id": "GU",
+    "name": "GU",
+    "flag": "/gu.png"
+  },
+  {
+    "id": "GW",
+    "name": "GW",
+    "flag": "/gw.png"
+  },
+  {
+    "id": "GY",
+    "name": "GY",
+    "flag": "/gy.png"
+  },
+  {
+    "id": "HK",
+    "name": "HK",
+    "flag": "/hk.png"
+  },
+  {
+    "id": "HM",
+    "name": "HM",
+    "flag": "/hm.png"
+  },
+  {
+    "id": "HN",
+    "name": "HN",
+    "flag": "/hn.png"
+  },
+  {
+    "id": "HR",
+    "name": "HR",
+    "flag": "/hr.png"
+  },
+  {
+    "id": "HT",
+    "name": "HT",
+    "flag": "/ht.png"
+  },
+  {
+    "id": "HU",
+    "name": "HU",
+    "flag": "/hu.png"
+  },
+  {
+    "id": "ID",
+    "name": "ID",
+    "flag": "/id.png"
+  },
+  {
+    "id": "IE",
+    "name": "IE",
+    "flag": "/ie.png"
+  },
+  {
+    "id": "IL",
+    "name": "IL",
+    "flag": "/il.png"
+  },
+  {
+    "id": "IM",
+    "name": "IM",
+    "flag": "/im.png"
+  },
+  {
+    "id": "IN",
+    "name": "IN",
+    "flag": "/in.png"
+  },
+  {
+    "id": "IO",
+    "name": "IO",
+    "flag": "/io.png"
+  },
+  {
+    "id": "IQ",
+    "name": "IQ",
+    "flag": "/iq.png"
+  },
+  {
+    "id": "IR",
+    "name": "IR",
+    "flag": "/ir.png"
+  },
+  {
+    "id": "IS",
+    "name": "IS",
+    "flag": "/is.png"
+  },
+  {
+    "id": "IT",
+    "name": "IT",
+    "flag": "/it.png"
+  },
+  {
+    "id": "JE",
+    "name": "JE",
+    "flag": "/je.png"
+  },
+  {
+    "id": "JM",
+    "name": "JM",
+    "flag": "/jm.png"
+  },
+  {
+    "id": "JO",
+    "name": "JO",
+    "flag": "/jo.png"
+  },
+  {
+    "id": "JP",
+    "name": "JP",
+    "flag": "/jp.png"
+  },
+  {
+    "id": "KE",
+    "name": "KE",
+    "flag": "/ke.png"
+  },
+  {
+    "id": "KG",
+    "name": "KG",
+    "flag": "/kg.png"
+  },
+  {
+    "id": "KH",
+    "name": "KH",
+    "flag": "/kh.png"
+  },
+  {
+    "id": "KI",
+    "name": "KI",
+    "flag": "/ki.png"
+  },
+  {
+    "id": "KM",
+    "name": "KM",
+    "flag": "/km.png"
+  },
+  {
+    "id": "KN",
+    "name": "KN",
+    "flag": "/kn.png"
+  },
+  {
+    "id": "KP",
+    "name": "KP",
+    "flag": "/kp.png"
+  },
+  {
+    "id": "KR",
+    "name": "KR",
+    "flag": "/kr.png"
+  },
+  {
+    "id": "KW",
+    "name": "KW",
+    "flag": "/kw.png"
+  },
+  {
+    "id": "KY",
+    "name": "KY",
+    "flag": "/ky.png"
+  },
+  {
+    "id": "KZ",
+    "name": "KZ",
+    "flag": "/kz.png"
+  },
+  {
+    "id": "LA",
+    "name": "LA",
+    "flag": "/la.png"
+  },
+  {
+    "id": "LB",
+    "name": "LB",
+    "flag": "/lb.png"
+  },
+  {
+    "id": "LC",
+    "name": "LC",
+    "flag": "/lc.png"
+  },
+  {
+    "id": "LI",
+    "name": "LI",
+    "flag": "/li.png"
+  },
+  {
+    "id": "LK",
+    "name": "LK",
+    "flag": "/lk.png"
+  },
+  {
+    "id": "LR",
+    "name": "LR",
+    "flag": "/lr.png"
+  },
+  {
+    "id": "LS",
+    "name": "LS",
+    "flag": "/ls.png"
+  },
+  {
+    "id": "LT",
+    "name": "LT",
+    "flag": "/lt.png"
+  },
+  {
+    "id": "LU",
+    "name": "LU",
+    "flag": "/lu.png"
+  },
+  {
+    "id": "LV",
+    "name": "LV",
+    "flag": "/lv.png"
+  },
+  {
+    "id": "LY",
+    "name": "LY",
+    "flag": "/ly.png"
+  },
+  {
+    "id": "MA",
+    "name": "MA",
+    "flag": "/ma.png"
+  },
+  {
+    "id": "MC",
+    "name": "MC",
+    "flag": "/mc.png"
+  },
+  {
+    "id": "MD",
+    "name": "MD",
+    "flag": "/md.png"
+  },
+  {
+    "id": "ME",
+    "name": "ME",
+    "flag": "/me.png"
+  },
+  {
+    "id": "MF",
+    "name": "MF",
+    "flag": "/mf.png"
+  },
+  {
+    "id": "MG",
+    "name": "MG",
+    "flag": "/mg.png"
+  },
+  {
+    "id": "MH",
+    "name": "MH",
+    "flag": "/mh.png"
+  },
+  {
+    "id": "MK",
+    "name": "MK",
+    "flag": "/mk.png"
+  },
+  {
+    "id": "ML",
+    "name": "ML",
+    "flag": "/ml.png"
+  },
+  {
+    "id": "MM",
+    "name": "MM",
+    "flag": "/mm.png"
+  },
+  {
+    "id": "MN",
+    "name": "MN",
+    "flag": "/mn.png"
+  },
+  {
+    "id": "MO",
+    "name": "MO",
+    "flag": "/mo.png"
+  },
+  {
+    "id": "MP",
+    "name": "MP",
+    "flag": "/mp.png"
+  },
+  {
+    "id": "MQ",
+    "name": "MQ",
+    "flag": "/mq.png"
+  },
+  {
+    "id": "MR",
+    "name": "MR",
+    "flag": "/mr.png"
+  },
+  {
+    "id": "MS",
+    "name": "MS",
+    "flag": "/ms.png"
+  },
+  {
+    "id": "MT",
+    "name": "MT",
+    "flag": "/mt.png"
+  },
+  {
+    "id": "MU",
+    "name": "MU",
+    "flag": "/mu.png"
+  },
+  {
+    "id": "MV",
+    "name": "MV",
+    "flag": "/mv.png"
+  },
+  {
+    "id": "MW",
+    "name": "MW",
+    "flag": "/mw.png"
+  },
+  {
+    "id": "MX",
+    "name": "MX",
+    "flag": "/mx.png"
+  },
+  {
+    "id": "MY",
+    "name": "MY",
+    "flag": "/my.png"
+  },
+  {
+    "id": "MZ",
+    "name": "MZ",
+    "flag": "/mz.png"
+  },
+  {
+    "id": "NA",
+    "name": "NA",
+    "flag": "/na.png"
+  },
+  {
+    "id": "NC",
+    "name": "NC",
+    "flag": "/nc.png"
+  },
+  {
+    "id": "NE",
+    "name": "NE",
+    "flag": "/ne.png"
+  },
+  {
+    "id": "NF",
+    "name": "NF",
+    "flag": "/nf.png"
+  },
+  {
+    "id": "NG",
+    "name": "NG",
+    "flag": "/ng.png"
+  },
+  {
+    "id": "NI",
+    "name": "NI",
+    "flag": "/ni.png"
+  },
+  {
+    "id": "NL",
+    "name": "NL",
+    "flag": "/nl.png"
+  },
+  {
+    "id": "NO",
+    "name": "NO",
+    "flag": "/no.png"
+  },
+  {
+    "id": "NP",
+    "name": "NP",
+    "flag": "/np.png"
+  },
+  {
+    "id": "NR",
+    "name": "NR",
+    "flag": "/nr.png"
+  },
+  {
+    "id": "NU",
+    "name": "NU",
+    "flag": "/nu.png"
+  },
+  {
+    "id": "NZ",
+    "name": "NZ",
+    "flag": "/nz.png"
+  },
+  {
+    "id": "OM",
+    "name": "OM",
+    "flag": "/om.png"
+  },
+  {
+    "id": "PA",
+    "name": "PA",
+    "flag": "/pa.png"
+  },
+  {
+    "id": "PE",
+    "name": "PE",
+    "flag": "/pe.png"
+  },
+  {
+    "id": "PF",
+    "name": "PF",
+    "flag": "/pf.png"
+  },
+  {
+    "id": "PG",
+    "name": "PG",
+    "flag": "/pg.png"
+  },
+  {
+    "id": "PH",
+    "name": "PH",
+    "flag": "/ph.png"
+  },
+  {
+    "id": "PK",
+    "name": "PK",
+    "flag": "/pk.png"
+  },
+  {
+    "id": "PL",
+    "name": "PL",
+    "flag": "/pl.png"
+  },
+  {
+    "id": "PM",
+    "name": "PM",
+    "flag": "/pm.png"
+  },
+  {
+    "id": "PN",
+    "name": "PN",
+    "flag": "/pn.png"
+  },
+  {
+    "id": "PR",
+    "name": "PR",
+    "flag": "/pr.png"
+  },
+  {
+    "id": "PS",
+    "name": "PS",
+    "flag": "/ps.png"
+  },
+  {
+    "id": "PT",
+    "name": "PT",
+    "flag": "/pt.png"
+  },
+  {
+    "id": "PW",
+    "name": "PW",
+    "flag": "/pw.png"
+  },
+  {
+    "id": "PY",
+    "name": "PY",
+    "flag": "/py.png"
+  },
+  {
+    "id": "QA",
+    "name": "QA",
+    "flag": "/qa.png"
+  },
+  {
+    "id": "RE",
+    "name": "RE",
+    "flag": "/re.png"
+  },
+  {
+    "id": "RO",
+    "name": "RO",
+    "flag": "/ro.png"
+  },
+  {
+    "id": "RS",
+    "name": "RS",
+    "flag": "/rs.png"
+  },
+  {
+    "id": "RU",
+    "name": "RU",
+    "flag": "/ru.png"
+  },
+  {
+    "id": "RW",
+    "name": "RW",
+    "flag": "/rw.png"
+  },
+  {
+    "id": "SA",
+    "name": "SA",
+    "flag": "/sa.png"
+  },
+  {
+    "id": "SB",
+    "name": "SB",
+    "flag": "/sb.png"
+  },
+  {
+    "id": "SC",
+    "name": "SC",
+    "flag": "/sc.png"
+  },
+  {
+    "id": "SD",
+    "name": "SD",
+    "flag": "/sd.png"
+  },
+  {
+    "id": "SE",
+    "name": "SE",
+    "flag": "/se.png"
+  },
+  {
+    "id": "SG",
+    "name": "SG",
+    "flag": "/sg.png"
+  },
+  {
+    "id": "SH",
+    "name": "SH",
+    "flag": "/sh.png"
+  },
+  {
+    "id": "SI",
+    "name": "SI",
+    "flag": "/si.png"
+  },
+  {
+    "id": "SJ",
+    "name": "SJ",
+    "flag": "/sj.png"
+  },
+  {
+    "id": "SK",
+    "name": "SK",
+    "flag": "/sk.png"
+  },
+  {
+    "id": "SL",
+    "name": "SL",
+    "flag": "/sl.png"
+  },
+  {
+    "id": "SM",
+    "name": "SM",
+    "flag": "/sm.png"
+  },
+  {
+    "id": "SN",
+    "name": "SN",
+    "flag": "/sn.png"
+  },
+  {
+    "id": "SO",
+    "name": "SO",
+    "flag": "/so.png"
+  },
+  {
+    "id": "SR",
+    "name": "SR",
+    "flag": "/sr.png"
+  },
+  {
+    "id": "SS",
+    "name": "SS",
+    "flag": "/ss.png"
+  },
+  {
+    "id": "ST",
+    "name": "ST",
+    "flag": "/st.png"
+  },
+  {
+    "id": "SV",
+    "name": "SV",
+    "flag": "/sv.png"
+  },
+  {
+    "id": "SX",
+    "name": "SX",
+    "flag": "/sx.png"
+  },
+  {
+    "id": "SY",
+    "name": "SY",
+    "flag": "/sy.png"
+  },
+  {
+    "id": "SZ",
+    "name": "SZ",
+    "flag": "/sz.png"
+  },
+  {
+    "id": "TC",
+    "name": "TC",
+    "flag": "/tc.png"
+  },
+  {
+    "id": "TD",
+    "name": "TD",
+    "flag": "/td.png"
+  },
+  {
+    "id": "TF",
+    "name": "TF",
+    "flag": "/tf.png"
+  },
+  {
+    "id": "TG",
+    "name": "TG",
+    "flag": "/tg.png"
+  },
+  {
+    "id": "TH",
+    "name": "TH",
+    "flag": "/th.png"
+  },
+  {
+    "id": "TJ",
+    "name": "TJ",
+    "flag": "/tj.png"
+  },
+  {
+    "id": "TK",
+    "name": "TK",
+    "flag": "/tk.png"
+  },
+  {
+    "id": "TL",
+    "name": "TL",
+    "flag": "/tl.png"
+  },
+  {
+    "id": "TM",
+    "name": "TM",
+    "flag": "/tm.png"
+  },
+  {
+    "id": "TN",
+    "name": "TN",
+    "flag": "/tn.png"
+  },
+  {
+    "id": "TO",
+    "name": "TO",
+    "flag": "/to.png"
+  },
+  {
+    "id": "TR",
+    "name": "TR",
+    "flag": "/tr.png"
+  },
+  {
+    "id": "TT",
+    "name": "TT",
+    "flag": "/tt.png"
+  },
+  {
+    "id": "TV",
+    "name": "TV",
+    "flag": "/tv.png"
+  },
+  {
+    "id": "TW",
+    "name": "TW",
+    "flag": "/tw.png"
+  },
+  {
+    "id": "TZ",
+    "name": "TZ",
+    "flag": "/tz.png"
+  },
+  {
+    "id": "UA",
+    "name": "UA",
+    "flag": "/ua.png"
+  },
+  {
+    "id": "UG",
+    "name": "UG",
+    "flag": "/ug.png"
+  },
+  {
+    "id": "UM",
+    "name": "UM",
+    "flag": "/um.png"
+  },
+  {
+    "id": "US",
+    "name": "US",
+    "flag": "/us.png"
+  },
+  {
+    "id": "UY",
+    "name": "UY",
+    "flag": "/uy.png"
+  },
+  {
+    "id": "UZ",
+    "name": "UZ",
+    "flag": "/uz.png"
+  },
+  {
+    "id": "VA",
+    "name": "VA",
+    "flag": "/va.png"
+  },
+  {
+    "id": "VC",
+    "name": "VC",
+    "flag": "/vc.png"
+  },
+  {
+    "id": "VE",
+    "name": "VE",
+    "flag": "/ve.png"
+  },
+  {
+    "id": "VG",
+    "name": "VG",
+    "flag": "/vg.png"
+  },
+  {
+    "id": "VI",
+    "name": "VI",
+    "flag": "/vi.png"
+  },
+  {
+    "id": "VN",
+    "name": "VN",
+    "flag": "/vn.png"
+  },
+  {
+    "id": "VU",
+    "name": "VU",
+    "flag": "/vu.png"
+  },
+  {
+    "id": "WF",
+    "name": "WF",
+    "flag": "/wf.png"
+  },
+  {
+    "id": "WS",
+    "name": "WS",
+    "flag": "/ws.png"
+  },
+  {
+    "id": "XK",
+    "name": "XK",
+    "flag": "/xk.png"
+  },
+  {
+    "id": "YE",
+    "name": "YE",
+    "flag": "/ye.png"
+  },
+  {
+    "id": "YT",
+    "name": "YT",
+    "flag": "/yt.png"
+  },
+  {
+    "id": "ZA",
+    "name": "ZA",
+    "flag": "/za.png"
+  },
+  {
+    "id": "ZM",
+    "name": "ZM",
+    "flag": "/zm.png"
+  },
+  {
+    "id": "ZW",
+    "name": "ZW",
+    "flag": "/zw.png"
+  }
+]
